@@ -7,8 +7,8 @@ https://github.com/diegocastroh/Cobro-Pasajes-Admin-Laravel
 
 Verificar los puertos en los directorios:
 - Config
--- ApiConsumer.java
--- Conexion.java
+  ApiConsumer.java
+  Conexion.java
 
 
 En la clase ApiConsumer modificar las variables en base a los valores obtenidos por el apiKey del User (Repositorio Admin de Laravel) y el URL del Server: 

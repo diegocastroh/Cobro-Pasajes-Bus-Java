@@ -2,7 +2,7 @@
 
 Versión para buses.
 
-[Descripción del proyecto] Para realizar el Software se debe de usar el siguiente repositorio: 
+Para realizar el Software se debe de usar el siguiente repositorio: 
 https://github.com/diegocastroh/Cobro-Pasajes-Admin-Laravel
 
 Verificar los puertos en los directorios:
